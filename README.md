@@ -204,7 +204,7 @@ The notebook contains multiple visual analyses including:
 
 ```bash
 ├── CSE422_Sec21_Group5_Project.ipynb
-├── CSE422_ProjectReport.pdf
+├── Customer Classification Project Report.pdf
 ├── Customer_Category_Classifier_Dataset.csv
 ├── README.md
 ```
